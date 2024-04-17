@@ -8,12 +8,13 @@
 	  <li>1.2</li>
 	  <li>1.3</li>
 	  <li>1.4</li>
+	  <li>1.5</li>
   </supportedVersions>
   <packageId>HidingFox.MoreFoxes</packageId>
   <url></url>
   <description>
 
-    This mod adds 6 new fox species.
+	This mod adds 6 new fox species.
 		- Sand Fox
 		- Kit Fox
 		- Maikong
@@ -21,5 +22,9 @@
 		- Tibetan Fox
 		- Silver Fox
 
+
+	Translations provided by:
+		Russian - tzverg, HidingFox
+		Polish - PestkaUwU
   </description>
 </ModMetaData>

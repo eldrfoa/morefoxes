@@ -262,7 +262,7 @@
   <ThingDef ParentName="ThingBaseFox">
     <defName>Fox_Maikong</defName>
     <label>maikong</label>
-    <description>Also known as «Crab-eating fox». Originated from Earth’s South America continent. This fox species lives along the costs of the continent, in the jungles, savannas and woodlands</description>
+    <description>Also known as «Crab-eating fox». Originated from Earth’s South America continent. Taxonomically does not belong to the fox genus, being the only surviving member of a Cerdocyon genus. Lives along the costs of the continent, in the jungles, savannas and woodlands.</description>
     <race>
       <useMeatFrom>Fox_Gray</useMeatFrom>
 	  <wildBiomes>
